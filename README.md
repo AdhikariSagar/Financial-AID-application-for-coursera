@@ -24,8 +24,8 @@ Answer: [The Data Science] course I've chosen is crucial for my career goals. My
 
  
 
-### Upon successful submission of your financial aid application, you can expect approval within 15-17 days. This prompt approval will ensure you can enroll in your desire courses without financial barriers, supporting your learning journey. 
-### Once approved, you'll be able to fully engage in the course, seizing the opportunity to enhance your skills and knowledge.
+Upon successful submission of your financial aid application, you can expect approval within 15-17 days. This prompt approval will ensure you can enroll in your desire courses without financial barriers, supporting your learning journey. 
+Once approved, you'll be able to fully engage in the course, seizing the opportunity to enhance your skills and knowledge.
   
 
 
