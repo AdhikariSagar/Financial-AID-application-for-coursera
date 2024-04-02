@@ -1,7 +1,6 @@
 # Financial-AID-application-for-coursera
 This repository contains resources and instructions for applying for financial aid for Coursera courses. If you're unable to afford the cost of a course certificate, you can apply for financial aid to access the course content for free.
 
-* Steps for Financial Aid Application:
 ## 1. Reason you applied for aid (150 words minimum required) <br>
    Answer: I am applying for financial aid to access educational opportunities that would otherwise be inaccessible due to financial constraints.As a student from [Your Home Country] currently studying in [Your Current living Country], I am eager to learn [Your Course; exampel: Data Science], believing it will greatly benefit my career prospects. However, without personal income, covering the expenses for the course certificate is challenging. Relying solely on my scholarship, it's difficult to gather the required funds. Financial Aid will alleviate this burden, ensuring I can pursue the course without sacrificing essential needs. This opportunity is crucial for my learning journey, enhancing my skills and giving me a competitive edge in the job market post-graduation. A verified certificate will add credibility to my qualifications. I am committed to completing all assignments on time, actively participating in forums, and offering peer reviews, as I've done in previous Coursera courses. Your support will enable me to achieve my academic and professional goals.
 
